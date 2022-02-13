@@ -1,2 +1,8 @@
 ------------------------------------------------
 AZ-104: Microsoft Azure Administrator
+
+Requirements
+Basic nderstanding of on-premises virtualization technologies, including: VMs, virtual networking, and virtual hard disks and Powershell
+Basic understanding of network configuration, including TCP/IP, Domain Name System (DNS), virtual private networks (VPNs), firewalls, and encryption technologies
+Basic understanding of Active Directory concepts, including domains, forests, domain controllers, replication, Kerberos protocol, and Lightweight Directory Access Protocol (LDAP)
+Basic understanding of resilience and disaster recovery, including backup and restore operations
